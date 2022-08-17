@@ -1,0 +1,30 @@
+.list-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2 auto;
+}
+article div{
+    display: inline-block;
+    margin: 2px;
+    border: 2px solid black;
+}
+form{
+    display: grid;
+    place-items: center;
+}
+form div{
+    border: 2px solid black;
+}
+form *{
+    margin: 2px;
+}
+input#sub{
+    width: 100px;
+    margin-left: 35px;
+}
+#bg{
+    background-image: linear-gradient(to left, #833bdc, #ea00ab, #ff2570, #ff7439, #ffb100, #f1cc00, #dce600, #beff2d, #a2ff41, #84fe54, #5ffd66, #23fb77);
+}
+body{
+    background-image: linear-gradient(to left bottom, #d3087b, #b95fcb, #7894fd, #00bcff, #00dbff, #00e4eb, #45eacf, #7bedb1, #9ddc7d, #c0c751, #e0ac38, #fb8c3d);
+}
