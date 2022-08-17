@@ -1,8 +1,6 @@
 # GyanMatric-EWL-Internship-Program
 This is public repository to showcase the progress of completing the learning resources by Gyan Matrix and also showcase the projects.
 
->### **>Work Done on: 05 Aug 2022**
-
 ### Microsoft VS Code
 * #### Shortcuts
 
@@ -13,8 +11,6 @@ Intellisense and Emmet are Auto Suggestion given by the VS Code Editor. It helps
 * #### Extensions
 
 Extensions are one othe very useful feature in VS Code. It enables the programers to do tasks easily.
-
->### **>Work Done on: 06 Aug 2022**
 
 ### Git & GitHub
 
@@ -32,6 +28,32 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 
 ### HTML5
 
-* #### A HTML Webpage is Created Using all the Basic Concepts of HTML5
+* #### Elements & Attributes
+
+* #### Links and Images
+
+* #### Tables and different Types of List
+
+* #### Diff. Btw. Inline and Block Elements
+
+* #### iFrames and Favicons
+
+* #### Symantics Tags and Responsive Webpage
+
+* #### A HTML Webpage is Created Using all the  above Basic Concepts of HTML5
 
 * #### index.html --> A Basic HTML Webpage is uploaded to this Repository
+
+### CSS
+
+* #### Selectors
+
+* #### Colors and Background
+
+* #### Box Model
+
+* #### Positioning and Display Properties
+
+* #### Flex and Grid Layout
+
+* #### Pseudo-class and Units
