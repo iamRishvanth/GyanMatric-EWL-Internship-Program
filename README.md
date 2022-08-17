@@ -40,9 +40,9 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 
 * #### Symantics Tags and Responsive Webpage
 
-* #### A HTML Webpage is Created Using all the  above Basic Concepts of HTML5
+* #### ** A WEBPAGE IS CREATED USING THE ABOVE BASIC CONCEPTS OF HTML5 **
 
-* #### index.html --> A Basic HTML Webpage is uploaded to this Repository
+* #### ** index.html --> A BASIC WEBPAGE UPLOADED TO THIS REPOSITORY **
 
 ### CSS
 
@@ -57,3 +57,7 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 * #### Flex and Grid Layout
 
 * #### Pseudo-class and Units
+
+* #### ** THE EXISTING WEBPAGE IS DESIGNED BASICALLY WITH CSS **
+
+* #### ** style.css --> THE CSS FILE IS LINKED TO HTML PAGE AND UPLOADED TO THIS REPOSITORY**
