@@ -65,4 +65,5 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 ### JavaScript
 
 * #### Variables and Data Types
-* #### ** variables.js --> JS file is commited to yhis Repository**
+
+* #### ** variables.js --> JS file is commited to this Repository**
