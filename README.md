@@ -61,3 +61,8 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 * #### ** THE EXISTING WEBPAGE IS DESIGNED BASICALLY WITH CSS **
 
 * #### ** style.css --> THE CSS FILE IS LINKED TO HTML PAGE AND UPLOADED TO THIS REPOSITORY**
+
+### JavaScript
+
+* #### Variables and Data Types
+* #### ** variables.js --> JS file is commited to yhis Repository**
