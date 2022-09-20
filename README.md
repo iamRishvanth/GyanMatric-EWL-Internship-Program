@@ -40,9 +40,9 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 
 * #### Symantics Tags and Responsive Webpage
 
-* #### ** A WEBPAGE IS CREATED USING THE ABOVE BASIC CONCEPTS OF HTML5 **
+* #### **A WEBPAGE IS CREATED USING THE ABOVE BASIC CONCEPTS OF HTML5**
 
-* #### ** index.html --> A BASIC WEBPAGE UPLOADED TO THIS REPOSITORY **
+* #### **[index.html](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/index.html) --> A BASIC WEBPAGE UPLOADED TO THIS REPOSITORY**
 
 ### CSS
 
@@ -58,16 +58,36 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 
 * #### Pseudo-class and Units
 
-* #### ** THE EXISTING WEBPAGE IS DESIGNED BASICALLY WITH CSS **
+* #### **THE EXISTING WEBPAGE IS DESIGNED BASICALLY WITH CSS**
 
-* #### ** style.css --> THE CSS FILE IS LINKED TO HTML PAGE AND UPLOADED TO THIS REPOSITORY**
+* #### **[style.css](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/style.css) --> THE CSS FILE IS LINKED TO HTML PAGE AND UPLOADED TO THIS REPOSITORY**
 
 ### JavaScript
 
 * #### Variables and Data Types
 
-* #### ** variables.js --> JS file is commited to this Repository**
+* #### **[variables.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/variables.js) --> JS file is commited to this Repository**
 
 * #### Operators
 
-* #### ** operators.js --> JS file is commited to this Repository**
+* #### **[operators.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/js_operators.js) --> JS file is commited to this Repository**
+
+* #### If-else and for loops
+
+* #### **[js_nested_if-else_stmt_in_for-loop.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/js_nested_if-else_stmt_in_for-loop.js) --> JS file is commited to this Repository**
+
+* #### Switch and while loop
+
+* #### **[js_switch_stmt_insided_while-loop.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/js_switch_stmt_insided_while-loop.js) --> JS file is commited to this Repository**
+
+* #### Functions
+
+* #### **[js_function.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/js_function.js) --> JS file is commited to this Repository**
+
+### PROJECTS
+
+* #### [Personal Portfolio](https://github.com/iamRishvanth/Personal-Portfolio)
+
+* #### [Scocial Media Webpage](https://github.com/iamRishvanth/Social-Media-Website)
+
+* #### [College Landing Website](https://github.com/iamRishvanth/SIET-College-Website)
