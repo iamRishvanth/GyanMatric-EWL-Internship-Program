@@ -84,6 +84,12 @@ Extensions are one othe very useful feature in VS Code. It enables the programer
 
 * #### **[js_function.js](https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/js_function.js) --> JS file is commited to this Repository**
 
+* #### Completed the Javascript Basics in FreeCodeCamp JavaScript Course
+
+![alt text][FCC-JS-Basics]
+
+[FCC-JS-Basics]: https://github.com/iamRishvanth/GyanMatric-EWL-Internship-Program/blob/main/fcc-js.png "FCC-JS-Basics"
+
 ### PROJECTS
 
 * #### [Personal Portfolio](https://github.com/iamRishvanth/Personal-Portfolio)
